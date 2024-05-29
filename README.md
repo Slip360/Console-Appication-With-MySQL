@@ -1,4 +1,4 @@
-# Console Application With MySQL
+# Console Application With MySQL and C++
 This repository was developed to have a small foundation on how to create a console application using the MySQL connector and C++.
 
 ## Instructions
